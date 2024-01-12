@@ -1,7 +1,4 @@
-a=input('digite algo?')
-print('o tipo primitivo desse valor e', type(a))
-print('e so tem espacos?', a.isspace())
-print('e so tem numeros?', a.isnumeric())
-print('e alfabetico?', a.isalpha())
-print('e alfanumeirco?', a.isalnum())
-    
+a=(bool(input('voce precisa atravessar a rua?')))
+b=(bool(input('se nao aprte,')))
+print(a)
+print(b)
